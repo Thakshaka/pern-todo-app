@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/pern-todo-app/static/css/main.435d5fe5.chunk.css",
+    "main.js": "/pern-todo-app/static/js/main.17e78b3e.chunk.js",
+    "main.js.map": "/pern-todo-app/static/js/main.17e78b3e.chunk.js.map",
+    "runtime-main.js": "/pern-todo-app/static/js/runtime-main.66e94738.js",
+    "runtime-main.js.map": "/pern-todo-app/static/js/runtime-main.66e94738.js.map",
+    "static/js/2.5c3cbdc1.chunk.js": "/pern-todo-app/static/js/2.5c3cbdc1.chunk.js",
+    "static/js/2.5c3cbdc1.chunk.js.map": "/pern-todo-app/static/js/2.5c3cbdc1.chunk.js.map",
+    "index.html": "/pern-todo-app/index.html",
+    "precache-manifest.79647252bbc23833ca0719a436713aaa.js": "/pern-todo-app/precache-manifest.79647252bbc23833ca0719a436713aaa.js",
+    "service-worker.js": "/pern-todo-app/service-worker.js",
+    "static/css/main.435d5fe5.chunk.css.map": "/pern-todo-app/static/css/main.435d5fe5.chunk.css.map",
+    "static/js/2.5c3cbdc1.chunk.js.LICENSE.txt": "/pern-todo-app/static/js/2.5c3cbdc1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.66e94738.js",
+    "static/js/2.5c3cbdc1.chunk.js",
+    "static/css/main.435d5fe5.chunk.css",
+    "static/js/main.17e78b3e.chunk.js"
+  ]
+}
