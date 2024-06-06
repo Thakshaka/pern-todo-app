@@ -19,7 +19,7 @@
 
 Live Demo: [View](https://pern-todo-app-client-kt8xcb4qz-thakshakas-projects.vercel.app/)
 
-## Deploy locally
+## Deploy Locally
 
 1. Create a postgres database and a table named "todo" in [supabase](supabase.com)
 
