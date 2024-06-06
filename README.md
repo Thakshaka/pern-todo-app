@@ -33,15 +33,15 @@ Live Demo: [View](https://pern-todo-app-client-kt8xcb4qz-thakshakas-projects.ver
    ```
 
 3. Client side
-  ```
-  cd .\client\
-  npm i
-  ```
+   ```
+   cd .\client\
+   npm i
+   ```
 
 4. Server side
-  ```
-  cd .\server\
-  npm i
-  nodemon index.js
-  ```
+   ```
+   cd .\server\
+   npm i
+   nodemon index.js
+   ```
 
